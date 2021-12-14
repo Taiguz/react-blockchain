@@ -5,7 +5,7 @@ algoritmo de prova por trabalho com a possibilidade de alterar sua dificuldade
 e uma função que verifica a integridade dos blocos.
 ![](screenshots/react-blockchain.gif)
 # Implementação
-Para implementar a block typescript e react desenvolver um sistema web que possibilite a visualização 
+Utilizou-se typescript e react para desenvolver um sistema web que possibilite a visualização 
 da blockchain.
 Para a gerção de hash, utilizou-se a biblioteca [crypto-js](https://www.npmjs.com/package/crypto-js), a qual implementa o
 algoritmo SHA-256. Para implementar o hash, primeiramente implementou-se
