@@ -1,6 +1,6 @@
 # React-blockchain
-React-blockchainl tem o objetivo de implementar uma blockchain localmente. A
-blockchain deve possibilita a modificação ̧ de seu conteúdo, a implementação de um
+React-blockchain tem o objetivo de implementar uma blockchain localmente. A
+blockchain deve possibilitar a modificação de seu conteúdo, a implementação de um
 algoritmo de prova por trabalho com a possibilidade de alterar sua dificuldade
 e uma função que verifica a integridade dos blocos.
 ![](screenshots/react-blockchain.gif)
